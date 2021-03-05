@@ -11,3 +11,6 @@ deploy:
   - type: git
     remote: origin
     branch: gh-pages
+default_ext: md
+pygments: true
+debug: false

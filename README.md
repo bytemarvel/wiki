@@ -1,2 +1,3 @@
 # wiki
-simiki
+
+This is my personal wiki page
