@@ -7,3 +7,7 @@ keywords:  Data Mining
 description: everthing about me
 author: Lintaofang
 root: /wiki
+deploy:
+  - type: git
+    remote: origin
+    branch: gh-pages
