@@ -77,11 +77,11 @@ collection: Interview
 	* 计算机基础
 		*  [操作系统](/wiki/attach/JavaGuide优质原创PDF/计算机基础/操作系统.pdf)
 		*  [手绘图解计算机基础](/wiki/attach/JavaGuide优质原创PDF/计算机基础/手绘图解计算机基础.pdf)
-		*   [手绘图解HTTP](/wiki/attach/JavaGuide优质原创PDF/计算机基础/手绘图解HTTP)
+		*   [手绘图解HTTP](/wiki/attach/JavaGuide优质原创PDF/计算机基础/手绘图解HTTP.pdf)
 		*   [ 图解网络](/wiki/attach/JavaGuide优质原创PDF/计算机基础/图解网络.pdf)
 	* Java
 		*  [Java基础知识篇](/wiki/attach/JavaGuide优质原创PDF/Java/Java基础知识篇.pdf)
-		*  [Java集合框架常见面试题](/wiki/attach/JavaGuide优质原创PDF/Java/Java集合框架常见面试题)
+		*  [Java集合框架常见面试题](/wiki/attach/JavaGuide优质原创PDF/Java/Java集合框架常见面试题.pdf)
 		*  [Java集合框架常见面试题夜间阅读版](/wiki/attach/JavaGuide优质原创PDF/Java/Java集合框架常见面试题夜间阅读版.pdf)
 		*  [v3.0-JavaGuide面试突击版](/wiki/attach/JavaGuide优质原创PDF/Java/v3.0-JavaGuide面试突击版.pdf)
 		*  [ v3.0-JavaGuide面试突击版夜间模式](/wiki/attach/JavaGuide优质原创PDF/Java/v3.0-JavaGuide面试突击版夜间模式.pdf)  
