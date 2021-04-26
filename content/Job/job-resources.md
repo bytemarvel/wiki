@@ -5,6 +5,7 @@ collection: Interview
 
 ---
 
+[Evernote 4.15日开始学习过程记录](https://www.evernote.com/shard/s675/sh/218bf8d2-88a4-444d-8a0c-0d942f0d76b3/32a37e2269fa5b550a8ab0504070be4f)
 
 ### Interview
 
