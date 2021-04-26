@@ -102,6 +102,7 @@ collection: Interview
 * [**Java核心技术36讲**](https://bytemarvel.github.io/wiki/Job/java-core-36-lectures.html): 🌟🌟🌟🌟🌟
 * [**Effective Java中文版(第3版)**](/wiki/attach/Effective.Java中文版(第3版).pdf)
 * [**Java后端路线 思维导图**](/wiki/attach/Java后端路线.jpeg)
+* [**Backend Roadmap**](/wiki/attach/backend-map.png)
 * [**百面机器学习**](/wiki/attach/百面机器学习.pdf)
 * [**中国科大选调生手册**](/wiki/attach/中国科大选调生手册.pdf)
 
