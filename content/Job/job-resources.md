@@ -99,6 +99,7 @@ collection: Interview
 * [**Java开发手册（嵩山版）**](/wiki/attach/Java开发手册（嵩山版）.pdf)
 * [**Java开发手册（华山版）**](/wiki/attachJava开发手册（华山版）.pdf)
 * [**《java并发编程的艺术》迷你书**](/wiki/attach/《java并发编程的艺术》迷你书.pdf)
+* [**Java核心技术36讲**](https://bytemarvel.github.io/wiki/Job/java-core-36-lectures.html)
 * [**百面机器学习**](/wiki/attach/百面机器学习.pdf)
 * [**中国科大选调生手册**](/wiki/attach/中国科大选调生手册.pdf)
 
