@@ -12,7 +12,7 @@ collection: Interview
 
 * [**面试题技术面试题汇总**](https://imageslr.github.io/2020/07/08/tech-interview.html): 操作系统，计算机网络，数据库，数据结构等等 	🌟🌟🌟🌟
 * [**JavaGuide在线阅读**](https://snailclimb.gitee.io/javaguide/#/)： JavaGuide ,[Github仓库](https://github.com/Snailclimb/JavaGuide) 🌟🌟🌟🌟🌟
-* [**Java 面经手册**](https://github.com/fuzhengwei/interview): 1.谈谈面试, 2.数据结构和算法, 3. 码农会锁, 4.多线程, 5.JVM 虚拟机; PDF版本：[网盘链接](https://pan.baidu.com/s/14EvqXGHUnJpC7UxtqSBzOQ) 提取码: hwdb  [PDF在线阅读](/wiki/attach/Java 面经手册·小傅哥(公众号：bugstack虫洞栈).pdf) 🌟🌟🌟🌟🌟 
+* [**Java 面经手册**](https://github.com/fuzhengwei/interview): 1.谈谈面试, 2.数据结构和算法, 3. 码农会锁, 4.多线程, 5.JVM 虚拟机; 做了很多实验，来具体研究某些细节问题。但有些部分过于细节，不够概括性。适合入门入门之后看看细节。此外，有一些错误的地方，PDF版本：[网盘链接](https://pan.baidu.com/s/14EvqXGHUnJpC7UxtqSBzOQ) 提取码: hwdb  [PDF在线阅读](/wiki/attach/Java面经手册·小傅哥(公众号：bugstack虫洞栈).pdf) 🌟🌟🌟
 * [**2021年最新总结，BATTM等技术面试题目**](https://github.com/0voice/interview_internal_reference#1): 按照公司分类与内容分类，具体的面试题集合。🌟🌟🌟
 * [**GitHub 上 3 天 1W 赞的程序员学习路线！入门进阶都非常实用**](https://xie.infoq.cn/article/6a56208af04e169caf4a86485) : 包含面试指南与面试题集合。 [网盘链接](https://pan.baidu.com/s/1NasqJrHsDQVlSIbCadqaqg)：提取码: 7pv 🌟🌟🌟🌟
 * [**CodeGuide | 程序员编码指南**](https://github.com/fuzhengwei/CodeGuide/wiki):  本代码库是作者小傅哥多年从事一线互联网Java开发的学习历程技术汇总，旨在为大家提供一个清晰详细的学习教程，侧重点更倾向编写Java核心内容。 🌟🌟🌟
@@ -27,7 +27,7 @@ collection: Interview
 * [**Advanced-Java**](https://github.com/doocs/advanced-java),  [**Java 虚拟机底层原理知识总结**](https://github.com/doocs/jvm), [**互联网公司常用框架源码赏析**](https://github.com/doocs/source-code-hunter)
 * 其他：[**如何在面试中筛选/不做一个「背题家」**](https://ipotato.me/article/66) 
 
-
+ 
 
 
 
