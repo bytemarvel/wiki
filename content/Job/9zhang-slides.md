@@ -8,7 +8,7 @@ date: 2021-04-27 11:46
 <!--
 
 import os
-wikiPath = "/attach/九章算法/九章算法-基础班/"
+wikiPath = "/wiki/attach/九章算法/九章算法-基础班/"
 localFilePath = "/Users/lintaofang/wiki/attach/九章算法/九章算法-基础班/"
 def generate(localFilePath,wikPath):
 	res = ""
@@ -24,14 +24,14 @@ def generate(localFilePath,wikPath):
 		
 
 -->
-* [**Lecture_6 链表**](/attach/九章算法/九章算法-基础班/Lecture_6_链表.pdf)
-* [**Lecture_2 二分法**](/attach/九章算法/九章算法-基础班/Lecture_2_二分法.pdf)
-* [**Lecture_8 数据结构**](/attach/九章算法/九章算法-基础班/Lecture_8_数据结构.pdf)
-* [**Lecture_7 数组与数**](/attach/九章算法/九章算法-基础班/Lecture_7_数组与数.pdf)
-* [**Lecture_3 二叉树**](/attach/九章算法/九章算法-基础班/Lecture_3_二叉树.pdf)
-* [**Lecture_5 动态规划下**](/attach/九章算法/九章算法-基础班/Lecture_5_动态规划下.pdf)
-* [**Lecture_9 图与搜索**](/attach/九章算法/九章算法-基础班/Lecture_9_图与搜索.pdf)
-* [**Lecture_4 动态规划上**](/attach/九章算法/九章算法-基础班/Lecture_4_动态规划上.pdf)
+* [**Lecture_6 链表**](/wiki/attach/九章算法/九章算法-基础班/Lecture_6_链表.pdf)
+* [**Lecture_2 二分法**](/wiki/attach/九章算法/九章算法-基础班/Lecture_2_二分法.pdf)
+* [**Lecture_8 数据结构**](/wiki/attach/九章算法/九章算法-基础班/Lecture_8_数据结构.pdf)
+* [**Lecture_7 数组与数**](/wiki/attach/九章算法/九章算法-基础班/Lecture_7_数组与数.pdf)
+* [**Lecture_3 二叉树**](/wiki/attach/九章算法/九章算法-基础班/Lecture_3_二叉树.pdf)
+* [**Lecture_5 动态规划下**](/wiki/attach/九章算法/九章算法-基础班/Lecture_5_动态规划下.pdf)
+* [**Lecture_9 图与搜索**](/wiki/attach/九章算法/九章算法-基础班/Lecture_9_图与搜索.pdf)
+* [**Lecture_4 动态规划上**](/wiki/attach/九章算法/九章算法-基础班/Lecture_4_动态规划上.pdf)
 
 **算法强化班**
 
