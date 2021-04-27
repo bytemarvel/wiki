@@ -73,12 +73,13 @@
 <!--
 
 import os
-wikiPath = "/wiki/attach/九章算法/九章算法-基础班/"
-localFilePath = "/Users/lintaofang/wiki/attach/九章算法/九章算法-基础班/"
+wikiPath = "/wiki/attach/九章算法/动态规划v2.0/"
+localFilePath = "/Users/lintaofang/wiki/attach/九章算法/动态规划v2.0/"
 def generate(localFilePath,wikPath):
     res = ""
     template = "* [**Title**](Path)"
     files = [x for x in os.listdir(localFilePath) if x.endswith('.pdf')]
+    files = sorted(files)
     for f in files:
         title = f.replace(".pdf","")
         path = wikiPath + f.replace(" ","_")
@@ -91,17 +92,35 @@ def generate(localFilePath,wikPath):
 -->
 
 <ul>
-<li><a href="/wiki/attach/九章算法/九章算法-基础班/Lecture_6_链表.pdf"><strong>Lecture_6 链表</strong></a></li>
 <li><a href="/wiki/attach/九章算法/九章算法-基础班/Lecture_2_二分法.pdf"><strong>Lecture_2 二分法</strong></a></li>
-<li><a href="/wiki/attach/九章算法/九章算法-基础班/Lecture_8_数据结构.pdf"><strong>Lecture_8 数据结构</strong></a></li>
-<li><a href="/wiki/attach/九章算法/九章算法-基础班/Lecture_7_数组与数.pdf"><strong>Lecture_7 数组与数</strong></a></li>
 <li><a href="/wiki/attach/九章算法/九章算法-基础班/Lecture_3_二叉树.pdf"><strong>Lecture_3 二叉树</strong></a></li>
-<li><a href="/wiki/attach/九章算法/九章算法-基础班/Lecture_5_动态规划下.pdf"><strong>Lecture_5 动态规划下</strong></a></li>
-<li><a href="/wiki/attach/九章算法/九章算法-基础班/Lecture_9_图与搜索.pdf"><strong>Lecture_9 图与搜索</strong></a></li>
 <li><a href="/wiki/attach/九章算法/九章算法-基础班/Lecture_4_动态规划上.pdf"><strong>Lecture_4 动态规划上</strong></a></li>
+<li><a href="/wiki/attach/九章算法/九章算法-基础班/Lecture_5_动态规划下.pdf"><strong>Lecture_5 动态规划下</strong></a></li>
+<li><a href="/wiki/attach/九章算法/九章算法-基础班/Lecture_6_链表.pdf"><strong>Lecture_6 链表</strong></a></li>
+<li><a href="/wiki/attach/九章算法/九章算法-基础班/Lecture_7_数组与数.pdf"><strong>Lecture_7 数组与数</strong></a></li>
+<li><a href="/wiki/attach/九章算法/九章算法-基础班/Lecture_8_数据结构.pdf"><strong>Lecture_8 数据结构</strong></a></li>
+<li><a href="/wiki/attach/九章算法/九章算法-基础班/Lecture_9_图与搜索.pdf"><strong>Lecture_9 图与搜索</strong></a></li>
 </ul>
 <p><strong>算法强化班</strong></p>
+<ul>
+<li><a href="/wiki/attach/九章算法/九章算法-强化班/1._简介.pdf"><strong>Lecture_1 简介</strong></a></li>
+<li><a href="/wiki/attach/九章算法/九章算法-强化班/2._数据结构上.pdf"><strong>Lecture_2 数据结构上</strong></a></li>
+<li><a href="/wiki/attach/九章算法/九章算法-强化班/3._数据结构下.pdf"><strong>Lecture_3 数据结构下</strong></a></li>
+<li><a href="/wiki/attach/九章算法/九章算法-强化班/4._Two_Pointers.pdf"><strong>Lecture_4 Two Pointers</strong></a></li>
+<li><a href="/wiki/attach/九章算法/九章算法-强化班/5._动态规划上.pdf"><strong>Lecture_5 动态规划上</strong></a></li>
+<li><a href="/wiki/attach/九章算法/九章算法-强化班/6._动态规划下.pdf"><strong>Lecture_6 动态规划下</strong></a></li>
+<li><a href="/wiki/attach/九章算法/九章算法-强化班/7._Follow_Up_问题.pdf"><strong>Lecture_7 Follow Up 问题</strong></a></li>
+</ul>
 <p><strong>动态规划v2.0</strong></p>
+<ul>
+<li><a href="/wiki/attach/九章算法/动态规划v2.0/九章动态规划1_简介_170916.pdf"><strong>Lecture_1 简介</strong></a></li>
+<li><a href="/wiki/attach/九章算法/动态规划v2.0/九章动态规划2_坐标型&amp;位操作型_170923.pdf"><strong>Lecture_2 坐标型&amp;位操作型</strong></a></li>
+<li><a href="/wiki/attach/九章算法/动态规划v2.0/九章动态规划3_序列型_170924.pdf"><strong>Lecture_3 序列型</strong></a></li>
+<li><a href="/wiki/attach/九章算法/动态规划v2.0/九章动态规划4_划分型&amp;博弈型&amp;背包型_170930.pdf"><strong>Lecture_4 划分型&amp;博弈型&amp;背包型</strong></a></li>
+<li><a href="/wiki/attach/九章算法/动态规划v2.0/九章动态规划5_背包型&amp;区间型_171001.pdf"><strong>Lecture_5 背包型&amp;区间型</strong></a></li>
+<li><a href="/wiki/attach/九章算法/动态规划v2.0/九章动态规划6_双序列型_171007.pdf"><strong>Lecture_6 双序列型</strong></a></li>
+<li><a href="/wiki/attach/九章算法/动态规划v2.0/九章动态规划7_难题_171008.pdf"><strong>Lecture_7 难题</strong></a></li>
+</ul>
 </div>
 <div id="income">
     <!--img src="/wiki/static/images/support-qrcode.png" alt="支持我" style="max-width:300px;" /-->
