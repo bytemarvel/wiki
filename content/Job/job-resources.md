@@ -65,6 +65,7 @@ collection: Interview
 * [**免费编程书籍 | 电子书**](https://github.com/meibin08/free-programming-books/issues/93) / [**码农书籍**](https://github.com/meibin08/free-programming-books): leetcode, 前端，java，测试
 * [**IT-eBOOK**](https://github.com/asyncfun/IT-eBOOK): 海量，全面
 * [**最新 1000 多本计算机电子书免费下载**](https://github.com/itdevbooks/pdf): 包含40多个技术大类；最新 7701 页 PDF 《第3版：互联网大厂面试题》，但是题目貌似质量不是特别好
+* [**awesome-programming-books**](https://awesome-programming-books.github.io/): 数量不多，但都是常用的，精品。
 * 📚 [**OnJava8**](https://lingcoder.github.io/OnJava8/)
 * [**Think-in-Java**](https://www.javascriptc.com/books/think-in-java/)
 * [**Effective Java 3ed**](https://www.javascriptc.com/books/effective-java-3rd-chinese/)
